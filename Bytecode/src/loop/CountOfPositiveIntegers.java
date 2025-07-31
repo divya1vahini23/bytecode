@@ -2,7 +2,7 @@ package loop;
 
 public class CountOfPositiveIntegers {
 /*1)Write a Java program that reads an positive integer and count 
- * the number   of digits.*/
+ * the number   of digits.*///////////
 	public static void main(String[] args) {
 		// TODO Auto-generated method 
 		int num=123456;
